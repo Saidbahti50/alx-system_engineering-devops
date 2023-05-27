@@ -1,0 +1,7 @@
+[0m[01;32m0-current_working_directory[0m
+0-hello_world
+[01;34m0x00-shell_basics[0m
+[01;34m0x01-shell_permissions[0m
+[01;34m0x02-shell_redirections[0m
+REAMDE.md
+test.txt
